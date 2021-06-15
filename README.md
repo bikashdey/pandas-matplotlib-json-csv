@@ -1,3 +1,4 @@
+
 # pandas-matplotlib-json-csv
 
 Just create a folder put the py and csv file inside and run the python code.
@@ -14,3 +15,4 @@ libraries are:
              
              3. Numpy(pip install numpy)
              
+Output : - https://user-images.githubusercontent.com/74043649/122098362-613ae800-ce2e-11eb-8031-c4486bb3b8b3.png
