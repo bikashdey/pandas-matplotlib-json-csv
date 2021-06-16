@@ -1,9 +1,14 @@
 
 # pandas-matplotlib-json-csv
 
+This project regarding ploting Bar and Pie chart using python pandas numpy and matplotlib libraries.
+we convert the csv file data to json data and then start further process.
+
+Step 1:- 
+
 Just create a folder put the py and csv file inside and run the python code.
 Before run you have to install  Python and its libraries from requirements.txt(pip install -r requirements.txt)
-Next step:
+Step 2:-
          check you have installed  python properly or not.
          To check go to cmd type:-  python
          then check also : pip 
